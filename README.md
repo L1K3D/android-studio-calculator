@@ -1,4 +1,4 @@
-# Android Studio Calculator
+# Simple Mobile Calculator
 
 ## Overview
 
@@ -91,3 +91,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Built using React Native and JavaScript for cross-platform compatibility.
 
 ---
+
